@@ -14,8 +14,8 @@ project proposed by
 
 | EDITION |      DESCRIPTION      |
 | :-----: | :-------------------: |
-|    <a href="https://github.com/jairo-sousa/devinho-player">#1 Music Player</a>    | A simple music palyer |
-|    <a href="https://github.com/jairo-sousa/boracodar-2-store">#2 Product card</a>    | A simple music palyer |
+|    <a href="https://github.com/jairo-sousa/devinho-player">#1 Music Player</a>    | A simple music player |
+|    <a href="https://github.com/jairo-sousa/boracodar-2-store">#2 Product card</a>    | A simple Product card |
 
 ---
 
