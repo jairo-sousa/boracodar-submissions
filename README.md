@@ -12,9 +12,10 @@ project proposed by
 
 ## SUBS
 
-|     EDITION      | DESCRIPTION |
-| :--------------: | :---------: |
-| #1 First project | decription  |
+| EDITION |      DESCRIPTION      |
+| :-----: | :-------------------: |
+|    <a href="https://github.com/jairo-sousa/devinho-player">#1 Music Player</a>    | A simple music palyer |
+|    <a href="https://github.com/jairo-sousa/boracodar-2-store">#2 Product card</a>    | A simple music palyer |
 
 ---
 
