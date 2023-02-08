@@ -18,6 +18,7 @@ project proposed by
 |    <a href="https://github.com/jairo-sousa/boracodar-2-store">#2 Product card</a>    | A simple Product card |
 |    <a href="https://github.com/jairo-sousa/boracodar-3-buttons">#3 Buttons</a>    | Buttons Documentation |
 |    <a href="https://github.com/jairo-sousa/boracodar-4-chat">#4 chat</a>    | A simple chat |
+|    <a href="https://github.com/jairo-sousa/boracodar-5-calculator">#5 calculator</a>    | A simple calculator |
 
 ---
 
