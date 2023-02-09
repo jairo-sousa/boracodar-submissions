@@ -14,6 +14,7 @@ project proposed by
 
 | EDITION |      DESCRIPTION      |
 | :----- | :-------------------: |
+|    <a href="https://github.com/jairo-sousa/boracodar-6-boarding">#6 Boarding</a>    | Card with Boarding information |
 |    <a href="https://github.com/jairo-sousa/boracodar-5-calculator">#5 calculator</a>    | A simple calculator |
 |    <a href="https://github.com/jairo-sousa/boracodar-4-chat">#4 chat</a>    | A simple chat |
 |    <a href="https://github.com/jairo-sousa/boracodar-3-buttons">#3 Buttons</a>    | Buttons Documentation |
