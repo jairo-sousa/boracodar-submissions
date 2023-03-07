@@ -14,6 +14,7 @@ project proposed by
 
 | EDITION                                                                           |          DESCRIPTION           |
 | :-------------------------------------------------------------------------------- | :----------------------------: |
+| <a href="https://github.com/jairo-sousa/boracodar-9-currency">#9 Currency</a>     |      A Currency converter      |
 | <a href="https://github.com/jairo-sousa/boracodar-8-dashboard">#8 Dashboard</a>   |       A sales dashboard        |
 | <a href="https://github.com/jairo-sousa/boracodar-7-catalog">#7 Catalog</a>       |   A catalog of universities    |
 | <a href="https://github.com/jairo-sousa/boracodar-6-boarding">#6 Boarding</a>     | Card with Boarding information |
