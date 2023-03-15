@@ -1,7 +1,7 @@
+import { Flex } from "@chakra-ui/react";
+
+import { AppWrapper } from "./components/Wrappers/AppWrapper";
+
 export function App() {
-	return (
-		<div className="App">
-			<h1>TODO APP</h1>
-		</div>
-	);
+	return <Flex as={AppWrapper}></Flex>;
 }
