@@ -1,4 +1,5 @@
-import { Flex } from "@chakra-ui/react";
+import { Flex, Heading, Text } from "@chakra-ui/react";
+import { Header } from "./components/Header";
 import { LoginForm } from "./components/LoginForm";
 import { Logo } from "./components/Logo";
 
@@ -10,7 +11,10 @@ export function App() {
 		<Flex as={AppWrapper}>
 			<Flex as={MainWrapper}>
 				<Logo />
-				<LoginForm />
+				<Flex direction="column" gap="4rem">
+					<Header />
+					<LoginForm />
+				</Flex>
 			</Flex>
 		</Flex>
 	);
