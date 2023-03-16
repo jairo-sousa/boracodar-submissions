@@ -12,7 +12,8 @@ export function MainWrapper({ children }: AppWrapperProps) {
 			w="50%"
 			h="100%"
 			backgroundColor="#F8FAFC"
-			p="4.715rem 20.8rem 20.9rem 11.2rem "
+			pt="4.715rem"
+			pl="11.2rem"
 			gap="11.4rem"
 			align="start"
 		>
