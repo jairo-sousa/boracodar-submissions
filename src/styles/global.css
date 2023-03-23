@@ -1,7 +1,7 @@
 * {
-	font-family: "Titillium Web", sans-serif;
+	font-family: "Inter", sans-serif;
 	font-weight: 400;
-	color: #1e293b;
+	color: #0f172a;
 }
 :root {
 	font-size: 62.5%;
@@ -15,7 +15,8 @@ body,
 }
 
 #root {
-	background-image: url("/bg.jpeg");
+	background-color: #0e0f10;
+	color: #ffffff;
 	display: flex;
 	justify-content: center;
 	align-items: center;
