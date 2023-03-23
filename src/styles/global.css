@@ -1,7 +1,6 @@
 * {
 	font-family: "Inter", sans-serif;
-	font-weight: 400;
-	color: #0f172a;
+	font-weight: 700;
 }
 :root {
 	font-size: 62.5%;
@@ -15,8 +14,8 @@ body,
 }
 
 #root {
-	background-color: #0e0f10;
-	color: #ffffff;
+	background-color: #7c3aed;
+	color: #403937;
 	display: flex;
 	justify-content: center;
 	align-items: center;
