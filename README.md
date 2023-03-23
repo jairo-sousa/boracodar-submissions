@@ -1,6 +1,6 @@
-<h1 align="center"> LOGIN PAGE </h1>
+<h1 align="center"> KANBAN </h1>
 
-<a align="center" href="#App page">
+<a align="center" href="#">
   <img alt="App preview" src="./.github/preview.svg">
 </a>
 
@@ -19,11 +19,11 @@ Project developed with the following technologies:
 
 Weekly challenge [#boracodar](https://boracodar.dev/) proposed by [rocketseat](https://www.rocketseat.com.br/)
 
-#11 - LOGIN PAGE
+#12 - Kanban
 
 ## Layout
 
-You can view the project layout through [THIS LINK](https://www.figma.com/community/file/1217810469465160264).
+You can view the project layout through [THIS LINK](https://www.figma.com/community/file/1220368226816658013).
 
 ---
 
