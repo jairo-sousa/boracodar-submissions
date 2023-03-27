@@ -1,9 +1,11 @@
 import { Flex } from "@chakra-ui/react";
+import { Filtering } from "./Filtering";
 import { Title } from "./Title";
 
 export function Main() {
 	return (
 		<Flex
+			direction="column"
 			w="100%"
 			h="100%"
 			bg="#FBFAFF"
@@ -12,6 +14,7 @@ export function Main() {
 			gap="3.2rem"
 		>
 			<Title />
+			<Filtering />
 		</Flex>
 	);
 }
