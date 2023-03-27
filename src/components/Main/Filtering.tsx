@@ -21,8 +21,7 @@ export function Filtering() {
 			<Flex
 				h="100%"
 				w="100%"
-				boxShadow="0px 4px 16px rgba(22, 22, 22, 0.1);
-border-radius: 8px"
+				boxShadow="0px 4px 16px rgba(22, 22, 22, 0.1)"
 				px="2.4rem"
 				align="center"
 				gap="1rem"
