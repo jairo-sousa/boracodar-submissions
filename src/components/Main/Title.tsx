@@ -11,7 +11,7 @@ export function Title() {
 		>
 			<Flex gap="1.2rem">
 				<Text fontSize="3.2rem">Meu Kanban</Text>
-				<Img src="/Main/pencil.svg" />
+				<Img src="/Main/pencil.svg" cursor="pointer" />
 			</Flex>
 			<Box
 				w="6.4rem"
