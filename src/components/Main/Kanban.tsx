@@ -21,6 +21,19 @@ export function Kanban() {
 					display: "none",
 				},
 			}}
-		></Flex>
+		>
+			{SampleTasks.map((step, i) => (
+				<Flex as={KanbanStep} key={`${step.title} - ${i}`} title={step.title}>
+					{step.tasks?.map((task) => (
+						<Task
+							key={task.id}
+							title={task.title}
+							content={task.content}
+							tags={task.tags}
+						/>
+					))}
+				</Flex>
+			))}
+		</Flex>
 	);
 }
