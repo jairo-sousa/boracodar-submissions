@@ -1,5 +1,6 @@
 import { Flex } from "@chakra-ui/react";
 import { Filtering } from "./Filtering";
+import { Kanban } from "./Kanban";
 import { Title } from "./Title";
 
 export function Main() {
@@ -15,6 +16,7 @@ export function Main() {
 		>
 			<Title />
 			<Filtering />
+			<Kanban />
 		</Flex>
 	);
 }
