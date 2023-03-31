@@ -1,6 +1,12 @@
-import { Flex } from "@chakra-ui/react";
+import { Flex, Img, Text } from "@chakra-ui/react";
 import { AddButton } from "./components/AddButon";
+import { Card } from "./components/Card/Card";
 import { Form } from "./components/Form";
+
+import shield from "/shield.svg";
+import visa from "/visa.svg";
+import master from "/master.svg";
+import elo from "/elo.svg";
 
 export function App() {
 	return (
@@ -16,7 +22,13 @@ export function App() {
 		>
 			<Flex w="100%" justify="space-between" align="center">
 				<Form />
-				<p>Card</p>
+				<Flex direction="column" align="center" gap="3.2rem">
+					<Card brand={visa} />
+					<Flex gap="1rem">
+						<Img src={shield} />
+						<Text>Seus dados estão seguros</Text>
+					</Flex>
+				</Flex>
 			</Flex>
 			<AddButton />
 		</Flex>
