@@ -1,4 +1,5 @@
-import { Button, Flex } from "@chakra-ui/react";
+import { Flex } from "@chakra-ui/react";
+import { AddButton } from "./components/AddButon";
 
 export function App() {
 	return (
@@ -10,8 +11,10 @@ export function App() {
 			borderRadius="0.8rem"
 			p="3.2rem"
 			direction="column"
+			justify="space-between"
 		>
 			Form + card
+			<AddButton />
 		</Flex>
 	);
 }
