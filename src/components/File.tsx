@@ -1,13 +1,7 @@
 import { Box, Flex, Img, Text } from "@chakra-ui/react";
 import { FileIcon } from "./FileIcon";
-
-type FileProps = {
-	status: "SENDING" | "SENT" | "ERROR";
-	name: string;
-	size: number;
-	totalSendt: number;
-	measurement: string;
-};
+import { Status } from "../types/Status";
+import { FileProps } from "../types/FileProps";
 
 export function File({
 	status,
