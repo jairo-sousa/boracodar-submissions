@@ -11,7 +11,6 @@ export function FileDropper() {
 			direction="column"
 			justify="center"
 			align="center"
-			gap="0.1rem"
 		>
 			<Img src="/cloudArrowUp.svg" alt="Cloud and arrow icon" mb="1.35rem" />
 			<Text fontWeight={700} color="#7A5FEC">
